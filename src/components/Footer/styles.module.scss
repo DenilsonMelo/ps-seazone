@@ -1,0 +1,19 @@
+.footerContainer{
+    background: var(--blue-800);
+    color: var(--white);
+
+    height: 6rem;
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+
+    margin-top: 2rem;
+
+    p{
+        font-size: 0.75rem;
+        font-weight: 400;
+    }
+}

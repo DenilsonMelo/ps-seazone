@@ -1,0 +1,141 @@
+.imovelContainer{
+    
+    max-width: 70rem;
+    margin: 0 auto;
+
+    .category{
+        font-size: 0.875rem;
+        color: var(--blue-800);
+    }
+
+    section{
+        display: flex;
+
+        .sideLeft{
+            margin-right: 4rem;
+            
+            img{
+                width: 24rem;
+                height: 20rem;
+
+                border-radius: 0.5rem;
+
+                margin-top: 2rem;
+            }
+
+            h3{
+                padding-top: 0.5rem;
+            }
+
+            p{
+                color: var(--blue-800);
+                font-size: 0.875rem;
+                font-weight: 400;
+
+                padding: 0.5rem 0;
+
+                max-width: 24rem;
+            }
+
+            span{
+                color: var(--red-500);
+                font-weight: 600;
+
+                cursor: pointer;
+            }
+
+            span:hover{
+                text-decoration: underline;
+            }
+        }
+
+        .sideRight{
+            h2{
+                margin-top: 1.5rem;
+            }
+
+            p, span{
+                color: var(--blue-800);
+            }
+
+            p{
+                font-size: 0.875rem;
+                font-weight: 400;
+            }
+
+            span{
+                font-size: 0.875rem;
+                font-weight: 600;
+            }
+
+            .cardInfo{
+                display: flex;
+                justify-content: space-between;
+
+                margin-top: 1rem;
+                border-top: 1px solid var(--gray-100);
+
+                .cardInfoContainer{
+                    margin-top: 1rem;
+
+                    border: 1px solid var(--gray-100);
+                    border-radius: 0.5rem;
+
+                    width: 12rem;
+                    height: 5rem;
+
+                    padding: 0.75rem;
+
+                    span{
+                        color: var(--gray-800);
+                    }
+
+                    div{
+                        display: flex;
+                        margin-top: 0.5rem;
+
+                        span, p{
+                            color: var(--gray-800);
+                        }
+
+                        p{
+                            margin-left: 0.75rem;
+                        }
+                    }
+                }
+            }
+
+            h3{
+                font-size: 1.125rem;
+                padding: 0.5rem 0;
+                margin-bottom: 0.5rem;
+
+                border-bottom: 1px solid var(--gray-100);
+            }
+
+            .infos{
+                display: flex;
+                flex-wrap: wrap; 
+                
+                p{
+                    margin-right: 6rem;
+                    padding: 0.25rem 0;
+                }
+
+                ul{
+                    display: flex;
+
+                    li{
+                        color: var(--blue-800);
+                        font-size: 0.875rem;
+                        font-weight: 400;
+
+                        padding: 0.5rem 0;
+                        margin-right: 10rem;
+                        margin-left: 1rem;
+                    }
+                }
+            }
+        }
+    }
+}

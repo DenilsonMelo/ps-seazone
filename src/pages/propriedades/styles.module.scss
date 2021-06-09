@@ -1,0 +1,34 @@
+.propriedadesContainer{
+    
+}
+
+.cardsContainer{
+    max-width: 77rem;
+    margin: 0 auto;
+
+    display: flex;
+    justify-content: space-between;
+    
+    flex-wrap: wrap; 
+    
+    li{
+        width: 33.3%;
+        display: flex;
+        justify-content: center;
+    }   
+}
+
+.title{
+    padding-left: 6rem;
+    padding-bottom: 2rem;
+
+    h2{
+        font-size: 1.15rem;
+    }
+
+    span{
+        color: var(--blue-800);
+        font-size: 0.875rem;
+        font-weight: 400;
+    }
+}

@@ -1,0 +1,60 @@
+.headerContainer{
+    background: var(--blue-800);
+
+    height: 4rem;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 1rem 4rem;
+
+    div {
+        display: flex;
+
+        img:first-child{
+            width: 12.85rem;
+            height: 2.5rem;
+
+            cursor: pointer;
+        }
+
+        ul{
+            display: flex;
+
+            a {
+                color: var(--white);
+                text-decoration: none;
+
+                list-style: none;
+                padding-left: 2rem;
+                margin: auto;
+                
+                cursor: pointer;
+
+                transition: 0.3s all;
+            }
+
+            a:hover{
+                color: var(--red-500);
+            }
+        }
+    }
+
+    .user{
+        width: 32px;
+        height: 32px;
+
+        select{
+            width: 1.5rem;
+            height: 1rem;
+
+            background: transparent;
+            color: var(--white);
+            border: none;
+
+            margin: auto;
+        }
+    }
+
+}
