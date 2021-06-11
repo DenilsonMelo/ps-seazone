@@ -50,6 +50,7 @@
         }
 
         .sideRight{
+
             h2{
                 margin-top: 1.5rem;
             }
@@ -77,6 +78,7 @@
 
                 .cardInfoContainer{
                     margin-top: 1rem;
+                    margin-right: 2rem;
 
                     border: 1px solid var(--gray-100);
                     border-radius: 0.5rem;
@@ -103,6 +105,10 @@
                         }
                     }
                 }
+
+                .cardInfoContainer:last-child{
+                    margin-right: 0;
+                }
             }
 
             h3{
@@ -123,14 +129,15 @@
                 }
 
                 ul{
-                    display: flex;
+                    
+                    flex-wrap: wrap;
 
                     li{
                         color: var(--blue-800);
                         font-size: 0.875rem;
                         font-weight: 400;
 
-                        padding: 0.5rem 0;
+                        padding: 0.25rem 0;
                         margin-right: 10rem;
                         margin-left: 1rem;
                     }

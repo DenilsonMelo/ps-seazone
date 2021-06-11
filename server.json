@@ -1,0 +1,118 @@
+{
+  "imoveis": [
+    {
+      "id": "ilc2307-suite-top-vista-mar-resort-jurere",      
+      "name": "ILC2307 - Suite Top vista mar resort Jurere",
+      "daily": "700,00",
+      "fivedaily": "3500,00",
+      "total": "3300,00",
+      "localization": "Av. Buzios 1800, Jurerê Internacional, Florianópolis - SC, CEP 89650-100",
+      "district": "Jurerê Internacional, Florianópolis",
+      "description": "2 quartos, 3 camas, 2 banheiros",
+      "guests": "6",
+      "cleaning": "50,00",
+      "surety": "700,00",
+      "beds": [
+        "1 cama de casal: dupla", 
+        "1 sofá cama: sala/área comum"
+      ],
+      "rules": [
+        "Aceita crianças(de 02 até 12 anos)", 
+        "Aceita bebês(abaixo de 02 anos)", 
+        "Fornece berços", 
+        "Permitido fumar no quarto", 
+        "Aceita animais de estimação"
+      ],    
+      "amenities": [
+        "Estacionamento", 
+        "Elevador", 
+        "Porteiro", 
+        "Piscina", 
+        "Wi-Fi", 
+        "Ar-Condicionado"]
+    },
+    {       
+      "id": "jbv242-suite-melhor-vista-mar-em-resort-de-jurere",      
+      "name": "JBV242 - Suíte melhor vista mar em resort de Jurerê",
+      "daily": "750,00",
+      "fivedaily": "3750,00",
+      "total": "3600,00",
+      "localization": "Jurere Leste, Santa Catarina, Brasil - CEP 89650-100",
+      "district": "Blumenau, Santa Catarina, Brasil",
+      "description": "1 quartos, 2 camas, 2 banheiros",
+      "guests": "4",
+      "cleaning": "50,00",
+      "surety": "700,00",
+      "beds": ["1 cama de casal", "1 sofá cama", "1 colchão extra"],    
+      "rules": ["Aceita crianças(de 02 até 12 anos)", "Aceita bebês(abaixo de 02 anos)", "Fornece berços", "Permitido fumar no quarto", "Aceita animais de estimação"],    
+      "amenities": ["Estacionamento", "Elevador", "Porteiro", "Piscina", "Wi-Fi", "Ar-Condicionado"]
+    },
+    {
+      "id": "jbv122-suite-com-bela-vista-mar-e-pé-na-areia",      
+      "name": "JBV122 - Suíte com bela vista mar e pé na areia",
+      "daily": "350,00",
+      "fivedaily": "1750,00",
+      "total": "3600,00",
+      "localization": "Balneário, Santa Catarina, Brasil - CEP 89650-100",
+      "district": "Balneário, Santa Catarina, Brasil",
+      "description": "1 quarto, 3 camas, 1 banheiro",
+      "guests": "5",
+      "cleaning": "50,00",
+      "surety": "500,00",
+      "beds": ["1 cama queen", "1 cama de solteiro ", "1 sofá-cama"],    
+      "rules": ["Aceita crianças(de 02 até 12 anos)", "Permitido fumar no quarto", "Aceita animais de estimação"],    
+      "amenities": ["Estacionamento", "Elevador", "Porteiro", "Piscina", "Wi-Fi", "Ar-Condicionado"]
+    },
+    {
+      "id": "jbm303-apto-com-vista-incrível-de-frente-o-mar",      
+      "name": "JBM303 - Apto com vista incrível de frente p/ o mar",
+      "daily": "350,00",
+      "fivedaily": "1750,00",
+      "total": "3600,00",
+      "localization": "Florianópolis, Santa Catarina, Brasil - CEP 89650-100",
+      "district": "Florianópolis, Santa Catarina, Brasil",
+      "description": "1 quarto, 2 camas, 1 banheiro",
+      "guests": "5",
+      "cleaning": "50,00",
+      "surety": "500,00",
+      "beds": ["1 cama de casal", "1 cama de solteiro "],    
+      "rules": ["Aceita crianças(de 02 até 12 anos)", "Permitido fumar no quarto", "Aceita animais de estimação"],    
+      "amenities": ["Estacionamento", "Elevador", "Porteiro", "Piscina", "Wi-Fi", "Ar-Condicionado"]
+    },
+    {
+      "id": "jbm303-apto-com-vista-incrível-de-frente-o-mar",      
+      "name": "JBM303 - Apto com vista incrível de frente p/ o mar",
+      "daily": "350,00",
+      "fivedaily": "1750,00",
+      "total": "3600,00",
+      "localization": "Jurere Leste, Santa Catarina, Brasil - CEP 89650-100",
+      "district": "Jurere, Santa Catarina, Brasil",
+      "description": "1 quarto, 2 camas, 1 banheiro",
+      "guests": "5",
+      "cleaning": "50,00",
+      "surety": "500,00",
+      "beds": ["1 cama de casal", "1 cama de solteiro "],    
+      "rules": ["Aceita crianças(de 02 até 12 anos)", "Permitido fumar no quarto", "Aceita animais de estimação"],    
+      "amenities": ["Estacionamento", "Elevador", "Porteiro", "Piscina", "Wi-Fi", "Ar-Condicionado"] 
+    },
+    {
+      "id": "ilc3413-studio-melhor-vista-mar-resort-de-jurere",      
+      "name": "ILC3413 - Studio melhor vista mar resort de Jurerê",
+      "daily": "500,00",
+      "fivedaily": "2500,00",
+      "total": "2900,00",
+      "localization": "Jurere Leste, Santa Catarina, Brasil - CEP 89650-100",
+      "district": "Jurere Leste, Santa Catarina, Brasil",
+      "description": "1 quarto, 2 camas, 1 banheiro",
+      "guests": "5",
+      "cleaning": "70,00",
+      "surety": "500,00",
+      "beds": ["2 camas de casal"],    
+      "rules": ["Aceita crianças(de 02 até 12 anos)", "Permitido fumar no quarto", "Aceita animais de estimação"],    
+      "amenities": ["Estacionamento", "Elevador", "Porteiro", "Piscina", "Wi-Fi", "Ar-Condicionado"]
+    }
+
+  ]
+}
+
+

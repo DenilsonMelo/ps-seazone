@@ -16,7 +16,7 @@ export default function Header(){
                 </ul>
             </div>
             <div className={styles.user}>
-                <img src="user.png" alt="User"  />
+                <img src="/user.png" alt="User" />
                 <select name="" id=""></select>
             </div>
         </header>
